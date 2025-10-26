@@ -5,7 +5,7 @@ from twilio.rest import Client
 # ---------------------------
 # CONFIGURATION
 # ---------------------------
-NEWSAPI_KEY = "YOUR_NEWSAPI_KEY"
+NEWSAPI_KEY = bbe0966b14f548d39a4084dedca602c3
 TWILIO_SID = AC1a2a803c23a4eba3672a49ed3bc99e25
 TWILIO_AUTH = f3091b1a8260bd9667480b9d52365535
 TWILIO_PHONE = "+18774054480
